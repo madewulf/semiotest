@@ -20,7 +20,7 @@ export default class DivergingStackedBar extends React.Component {
         margin={{ top: 30, bottom: 0, left: 80, right: 50 }}
         oPadding={20}
         oLabel={true}
-        axis={{ orient: "top", tickValues: [ -50, 0, 50]}}
+        axis={{ orient: "top", tickValues: [ -33.33, -16.66, 0, 50]}}
       />
     </div>)
   } // End of the render function
