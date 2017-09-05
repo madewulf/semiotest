@@ -1,1 +1,1 @@
-A test of Elijah Meeks Semiotic. 
+A simple test of Elijah Meeks Semiotic. 
